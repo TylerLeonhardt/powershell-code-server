@@ -1,4 +1,4 @@
-# powershell-code-server
+# PowerShell code-server
 
 A complete PowerShell developer experience - all in a Docker container!
 
